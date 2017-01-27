@@ -3351,6 +3351,9 @@ Date:   Mon Feb 18 01:25:34 2013 +0000
     Reviewed-by: Peter Hutterer <peter.hutterer@who-t.net>
     Signed-off-by: Alan Coopersmith <alan.coopersmith@oracle.com>
 
+Notes:
+    CVE-2013-7439
+
 commit 3cdb6c3a1646f670afa03d424ec12ac418181d1e
 Author: Quentin Glidic <sardemff7+git@sardemff7.net>
 Date:   Tue Jan 15 21:07:17 2013 +0000
