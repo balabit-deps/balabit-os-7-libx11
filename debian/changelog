@@ -1,3 +1,19 @@
+libx11 (2:1.6.4-3ubuntu0.1) bionic-security; urgency=medium
+
+  * SECURITY UPDATE: Denial of service
+    - debian/patches/CVE-2018-14598.patch: fix in src/GetFPath.c,
+      src/ListExt.c.
+    - CVE-2018-14598
+  * SECURITY UPDATE: Denial of service
+    - debian/patches/CVE-2018-14599.patch: fix in src/FontNames.c,
+      src/GetFPath.c, src/ListExt.c.
+    - CVE-2018-14599
+  * SECURITY UPDATE: Denial of service
+    - debian/patches/CVE-2018-14600.patch: fix in src/GetFPath.
+    - CVE-2018-14600
+
+ -- Leonidas S. Barbosa <leo.barbosa@canonical.com>  Wed, 29 Aug 2018 15:18:18 -0300
+
 libx11 (2:1.6.4-3) unstable; urgency=high
 
   [ Emilio Pozuelo Monfort ]
