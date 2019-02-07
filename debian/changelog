@@ -1,3 +1,10 @@
+libx11 (2:1.6.4-3ubuntu0.2) bionic; urgency=medium
+
+  * call-poll-for-event-again.diff: Fix constant video freezes on
+    firefox with amdgpu. (LP: #1815125)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 07 Feb 2019 22:04:25 +0200
+
 libx11 (2:1.6.4-3ubuntu0.1) bionic-security; urgency=medium
 
   * SECURITY UPDATE: Denial of service
