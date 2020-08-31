@@ -7,3 +7,11 @@ CVE-2018-14598.patch
 CVE-2018-14599.patch
 CVE-2018-14600.patch
 call-poll-for-event-again.diff
+CVE-2020-14344-1.patch
+CVE-2020-14344-2.patch
+CVE-2020-14344-3.patch
+CVE-2020-14344-4.patch
+CVE-2020-14344-5.patch
+CVE-2020-14344-6.patch
+CVE-2020-14344-7.patch
+CVE-2020-14363.patch
